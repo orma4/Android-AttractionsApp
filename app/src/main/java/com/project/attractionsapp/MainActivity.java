@@ -1,9 +1,3 @@
-/* Final Project
-Campus: Ashdod
-Author: Or Maman, ID: 311392450
-Author2: Sami Saliba, ID: 313552234
-*/
-
 package com.project.attractionsapp;
 
 import androidx.annotation.Nullable;
